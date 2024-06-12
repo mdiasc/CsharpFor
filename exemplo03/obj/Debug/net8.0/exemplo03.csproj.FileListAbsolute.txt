@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\exemplo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\exemplo03.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\exemplo03.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\exemplo03.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Csharp\exemplo03\bin\Debug\net8.0\exemplo03.exe
+C:\Users\Aluno\Desktop\Csharp\exemplo03\bin\Debug\net8.0\exemplo03.deps.json
+C:\Users\Aluno\Desktop\Csharp\exemplo03\bin\Debug\net8.0\exemplo03.runtimeconfig.json
+C:\Users\Aluno\Desktop\Csharp\exemplo03\bin\Debug\net8.0\exemplo03.dll
+C:\Users\Aluno\Desktop\Csharp\exemplo03\bin\Debug\net8.0\exemplo03.pdb
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\exemplo03.dll
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\refint\exemplo03.dll
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\exemplo03.pdb
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\exemplo03.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Csharp\exemplo03\obj\Debug\net8.0\ref\exemplo03.dll
